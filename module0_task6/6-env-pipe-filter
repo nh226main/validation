@@ -1,1 +1,1 @@
-env |grep TERM
+env |grep "^TERM"
