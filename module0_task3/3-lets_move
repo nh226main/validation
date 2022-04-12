@@ -1,0 +1,7 @@
+for file in *; do 
+  if [[ $file =~ ^[A-Z].* ]]; then 
+     echo will move $file
+  else
+     echo stay $file
+  fi
+done
