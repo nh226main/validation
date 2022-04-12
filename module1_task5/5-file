@@ -1,0 +1,3 @@
+fn="\*\\\'\"DevOps\"\'\\\*$\?\*\*\*\*\*:)"
+touch $fn
+echo -e "Hello DevOps\n" >> $fn
