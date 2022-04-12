@@ -1,0 +1,2 @@
+curl --silent --fail --output /dev/null https://github.com/nh226main/validation/tree/main/whereami && echo OK || echo FAILURE
+
