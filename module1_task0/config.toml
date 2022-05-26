@@ -4,3 +4,5 @@ title = 'Awesome Inc.'
 theme = 'ananke'
 # publishDir by default is public
 publishDir = 'dist'
+contentDir = 'content'
+
